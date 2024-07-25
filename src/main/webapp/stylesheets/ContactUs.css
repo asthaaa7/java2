@@ -1,0 +1,234 @@
+@charset "UTF-8";
+.Nav{
+    background-color: #0C193B;
+    
+}
+.img{
+width: 200px;
+height: 60px;
+
+margin-left: 50px;
+}
+.sear{
+    display: flex;
+    margin-left: 150px;
+}
+.head{
+
+    text-align: center;
+    font-size: 50px;
+    
+}
+.one{
+    background-color: #D9D9D9;
+    display: flex;
+}
+
+.two{
+    margin-top: 30px;
+    background-color: #D9D9D9;
+    display: flex;
+}
+.three{
+    margin-top: 30px;
+    background-color: #D9D9D9;
+    display: flex;
+}
+
+.four{
+    margin-top: 30px;
+    background-color: #D9D9D9;
+    display: flex;
+
+}
+
+.five{
+    margin-top: 30px;
+    background-color: #D9D9D9;
+    display: flex;
+}
+.twoimg{
+    padding-left: 1000px;
+    position: absolute;
+    padding-top: 20px;
+}
+.s{
+  padding-left: 300px;
+}
+.q{
+    padding-left: 200px;
+}
+.oneimg{
+    padding-top: 20px;
+    padding-left: 150px;
+    position: absolute;
+}
+
+.lbl{
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: #555;
+}
+
+.lbl2{
+    display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #555;
+  margin-top:10px;
+
+}
+.firstL {
+    width: 80%; /* Adjust the width as needed */
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    font-family: inherit;
+    font-size: 1rem;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease;
+    margin: 0 auto; /* Add this line to center the input field horizontally */
+}
+
+.secondL {
+    width: 80%; /* Adjust the width as needed */
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    font-family: inherit;
+    font-size: 1rem;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease;
+    height: 200px;
+    margin: 0 auto; /* Add this line to center the input field horizontally */
+}
+.AboutUs{
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #0C193B;
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+
+}
+.success {
+    position: fixed;
+    top: 20px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgb(106, 168, 126);
+    padding: 10px;
+    display: none; /* Hide by default */
+    border-radius: 5px;
+    border-left: 6px solid rgb(28, 78, 28);
+    z-index: 999; /* Ensure it appears on top of other elements */
+}
+.error {
+    position: fixed;
+    top: 20px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: red;
+    padding: 10px;
+    display: none; /* Hide by default */
+    border-radius: 5px;
+    
+    z-index: 999; /* Ensure it appears on top of other elements */
+}
+.Sujal1{
+	
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.Sujal2{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.Baishali1{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}.Baishali2{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom:20px;
+}
+.Aliya1{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}.Aliya2{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.Astha1{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}.Astha2{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.Rashi1{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}.Rashi2{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+
